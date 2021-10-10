@@ -2,7 +2,7 @@
 
 count=0
 base_homedir="/home"
-_shell="/opt/bash"
+_shell="//bash"
 _skel="/etc/skel"
 
 while read line
