@@ -7,6 +7,9 @@
 ```
 ./useradd-from-csv.sh (CSVファイル)
 ```
+## 動作確認した環境
+
+Debian 11
 
 ## License
 
